@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20220101"
+title: "Empezando"
 categories: blog
 ---
 
